@@ -13,7 +13,7 @@
 #### Klona repository:
 I git bash, skriv följande:
 1. git clone https://github.com/LukasNorrman/Avancerad_JAVA24_Lukas_Norrman_Uppgift2
-2. cd Avancerad_JAVA24_Lukas_Norrman_Uppgift1
+2. cd Avancerad_JAVA24_Lukas_Norrman_Uppgift2
 3. cd src
 4. cd StudentHanteringsSystem
 5. javac main.java 
